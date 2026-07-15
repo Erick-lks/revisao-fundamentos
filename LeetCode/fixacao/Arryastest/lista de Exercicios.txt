@@ -5,6 +5,6 @@ Catálogo de produtos: cadastre produtos usando código e nome. Busque um produt
 Fila de restaurante: clientes entram na fila, uma pessoa preferencial deve entrar antes dos demais e os clientes devem ser atendidos um por um. Mostre a fila após cada atendimento. ok
 Controle de presença: receba nomes de alunos que chegaram à aula. Um aluno pode tentar registrar presença mais de uma vez, mas a lista final deve conter cada aluno apenas uma vez. Verifique se um aluno específico compareceu.ok
 Ranking de pontuações: armazene várias pontuações, ordene-as da menor para a maior, remova uma pontuação específica e informe qual é a maior pontuação restante.ok
-Agenda telefônica: cadastre contatos usando nome e telefone. Busque o telefone de um contato, atualize o telefone de outro e remova um contato. Mostre a agenda ao final.
-Histórico de tarefas: adicione tarefas concluídas em sequência, mostre a última tarefa concluída e permita desfazer a última ação. Depois, mostre o histórico atualizado.
+Agenda telefônica: cadastre contatos usando nome e telefone. Busque o telefone de um contato, atualize o telefone de outro e remova um contato. Mostre a agenda ao final.ok
+Histórico de tarefas: adicione tarefas concluídas em sequência, mostre a última tarefa concluída e permita desfazer a última ação. Depois, mostre o histórico atualizado.ok
 Controle de estoque simples: cadastre nomes de produtos. Tente adicionar alguns nomes repetidos, informe quais produtos ficaram cadastrados e verifique se um produto específico está disponível.
