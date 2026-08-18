@@ -1,4 +1,4 @@
-package Fundamentos.Casting;
+package Casting;
 
 public class ConverterTipagem {
     public static void main(String[] args) {

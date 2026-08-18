@@ -1,4 +1,4 @@
-package Fundamentos.Repeticao;
+package Repeticao;
 
 import java.util.ArrayList;
 
