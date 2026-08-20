@@ -43,18 +43,18 @@ Este repositório está em constante evolução e acompanha minha jornada de est
 
 ### 📌 Fase 4 — Collections Framework
 
-* [ ] List
-* [ ] Set
-* [ ] Queue
+* [x ] List
+* [ x] Set
+* [x ] Queue
 * [ ] Map
-* [ ] ArrayList
-* [ ] LinkedList
-* [ ] HashSet
-* [ ] LinkedHashSet
-* [ ] TreeSet
-* [ ] HashMap
-* [ ] LinkedHashMap
-* [ ] TreeMap
+* [x ] ArrayList
+* [x ] LinkedList
+* [x ] HashSet
+* [x ] LinkedHashSet
+* [ x] TreeSet
+* [x ] HashMap
+* [ x] LinkedHashMap
+* [x ] TreeMap
 * [ ] Comparator
 * [ ] Comparable
 
